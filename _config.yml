@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/BzQxingxingqiu/BzQxingxingqiu.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           #添加侧边栏
+sidebar: false                           #添加侧边栏
 sidebar-about-description: "The most tyrannical person in the IRS!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # 使用绝对URL, seeing it's used in both `/` and `/about/`
 
